@@ -1,0 +1,5 @@
+{
+  "name":"Shann Chat","short_name":"Shann","description":"More Than Just Messages",
+  "start_url":"/","display":"standalone","background_color":"#071b3b","theme_color":"#071b3b",
+  "icons":[]
+}
